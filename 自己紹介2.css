@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+
+ .navi{
+  height: 90px;
+  background-color: #2F5375;
+  opacity: 0.8;
+}
+
+
+
+.navi-logo{
+  font-weight: bold ;
+  font-size: 33px;
+  padding: 20px 10px ;
+  float: left;
+}
+
+.navi li{
+  list-style:  none;
+    padding: 40px 10px ;
+    float: left;
+}
+
+.navi-list{
+    float: right;
+}
+
+
+.profile{
+background-color: #62AEF5;
+}
+
+.profile h1{
+    font-size: 40px;
+}
+
+.profile h2{
+
+}
+
+.career{
+  background-color: #4E8AC2;
+}
+
+.career h1{
+    font-size: 40px;
+}
+
+.skill{
+  background-color: #526475;
+}
+
+.skill h1{
+    font-size: 40px;
+}
+
+
+.parsonal{
+  background-color: #ADD3F7;
+}
+
+.parsonal h1{
+    font-size: 40px;
+}
+
+.parsonal h4{
+font-size: 20px;
+}
+
+.parsonal h5{
+    font-size: 15px;
+}
+
+.food{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.gumi{
+    padding-top: 10px;
+}
+
+.end{
+  background-color:#2F5375;
+  opacity: 0.8;
+}
+
+.end h2{
+    font-size: 40px;
+}
+
+.end span{
+    font-family:  'Sacramento', cursive;
+}
